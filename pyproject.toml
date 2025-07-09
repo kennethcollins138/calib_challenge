@@ -12,6 +12,7 @@ dependencies = [
     "pytest-benchmark>=4.0.0",
     "pyyaml>=6.0.1",
     "numpy>=2.0.2",
+    "pykka>=4.2.0",
 ]
 
 [tool.setuptools.packages.find]
